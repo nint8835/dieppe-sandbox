@@ -1,0 +1,3 @@
+package dieppesandbox
+
+func TestFunc() {}
